@@ -1,0 +1,58 @@
+{
+  "id": "4401601",
+  "name": "22",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5663611",
+      "name": "闪电",
+      "font_class": "shandian",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "10100130",
+      "name": "8",
+      "font_class": "icon-test",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "11730893",
+      "name": "绿地率",
+      "font_class": "bianzu",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "14311262",
+      "name": "仪表盘",
+      "font_class": "yibiaopan",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "14905823",
+      "name": "看板-电表",
+      "font_class": "dianbiao",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "25341908",
+      "name": "SO2",
+      "font_class": "SO2",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "26304670",
+      "name": "loudianjiance_icon",
+      "font_class": "loudianjiance_icon",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
