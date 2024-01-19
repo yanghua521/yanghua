@@ -1,0 +1,163 @@
+{
+  "id": "4413136",
+  "name": "图标",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8875188",
+      "name": "SO2",
+      "font_class": "SO",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    },
+    {
+      "icon_id": "14905823",
+      "name": "看板-电表",
+      "font_class": "dianbiao",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "29000344",
+      "name": "闪电-圈-面",
+      "font_class": "shandian-quan-mian",
+      "unicode": "e738",
+      "unicode_decimal": 59192
+    },
+    {
+      "icon_id": "1123",
+      "name": "复制文件",
+      "font_class": "fuzhiwenjian",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "999258",
+      "name": "太阳",
+      "font_class": "ai250",
+      "unicode": "e6ee",
+      "unicode_decimal": 59118
+    },
+    {
+      "icon_id": "1244752",
+      "name": "闪电",
+      "font_class": "shandian",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "1394131",
+      "name": "观察档案_十字_添加",
+      "font_class": "guanchadangan_shizi_tianjia",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "1727527",
+      "name": "306问号-线性圆框",
+      "font_class": "wenhao-xianxingyuankuang",
+      "unicode": "e8e9",
+      "unicode_decimal": 59625
+    },
+    {
+      "icon_id": "2471401",
+      "name": "消息框",
+      "font_class": "xiaoxikuang",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "3092269",
+      "name": "树叶h",
+      "font_class": "shuyeh",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "4822415",
+      "name": "树叶",
+      "font_class": "shuye",
+      "unicode": "e6e0",
+      "unicode_decimal": 59104
+    },
+    {
+      "icon_id": "5203299",
+      "name": "太阳",
+      "font_class": "taiyang",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "5609002",
+      "name": "树叶8",
+      "font_class": "shuye1",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "8288852",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e84f",
+      "unicode_decimal": 59471
+    },
+    {
+      "icon_id": "9626887",
+      "name": "开关",
+      "font_class": "kaiguan",
+      "unicode": "e872",
+      "unicode_decimal": 59506
+    },
+    {
+      "icon_id": "11439658",
+      "name": "风扇",
+      "font_class": "fengshan",
+      "unicode": "e6d0",
+      "unicode_decimal": 59088
+    },
+    {
+      "icon_id": "14648756",
+      "name": "开启太阳光设置",
+      "font_class": "kaiqitaiyangguangshezhi",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "16111332",
+      "name": "十字线",
+      "font_class": "shizixian",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    },
+    {
+      "icon_id": "19270113",
+      "name": "仪表盘",
+      "font_class": "yibiaopan",
+      "unicode": "e89f",
+      "unicode_decimal": 59551
+    },
+    {
+      "icon_id": "23701097",
+      "name": "CO2-Outlined",
+      "font_class": "CO2-Outlined",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "29265286",
+      "name": "闪电",
+      "font_class": "shandian1",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "29274910",
+      "name": "风扇",
+      "font_class": "fengshan1",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    }
+  ]
+}
